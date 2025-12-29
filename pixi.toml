@@ -1,0 +1,41 @@
+[workspace]
+channels = ["conda-forge"]
+name = "huarebro"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "<=3.13"
+yarn = ">=4.12.0,<5"
+ffmpeg = ">=8.0.1,<9"
+
+[pypi-options]
+index-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+extra-index-urls = ["https://pypi.org/simple"]
+
+[pypi-dependencies]
+langgraph-cli = { version = ">=0.4.7, <0.5", extras = ["inmem"] }
+deepagents = ">=0.2.8, <0.3"
+langchain = ">=1.1.0, <2"
+langchain-openai = ">=1.1.0, <2"
+langgraph = ">=1.0.4, <2"
+beautifulsoup4 = ">=4.14.3, <5"
+markdownify = ">=1.2.2, <2"
+rich = ">=14.2.0, <15"
+pydantic = ">=2.12.5, <3"
+jupyter = ">=1.1.1, <2"
+httpx = ">=0.28.1, <0.29"
+python-dotenv = ">=1.2.1, <2"
+modelscope = ">=1.32.0, <2"
+langchain-milvus = ">=0.3.1, <0.4"
+pymilvus = { version = ">=2.6.5, <3", extras = ["milvus-lite"] }
+langchain-community = ">=0.4.1, <0.5"
+faiss-cpu = ">=1.13.1, <2"
+safetensors = ">=0.7.0, <0.8"
+numpy = ">=2.3.5, <3"
+pypdf = ">=6.4.1, <7"
+pdf2image = ">=1.17.0, <2"
+openpyxl = ">=3.1.5, <4"
+python-docx = ">=1.2.0, <2"

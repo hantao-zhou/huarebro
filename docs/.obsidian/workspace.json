@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a43eea102175d894",
+    "type": "split",
+    "children": [
+      {
+        "id": "444f6c5cb97c766c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3a76da768f00f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Launch the three local models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Launch the three local models"
+            }
+          },
+          {
+            "id": "167d0f35ea662059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design of the file-processing system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design of the file-processing system"
+            }
+          },
+          {
+            "id": "bb20900ace73a911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/ask GPT for learning the desing of the prompting template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ask GPT for learning the desing of the prompting template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d803897a942f3619",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9f0cb61e3e13d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d6a32f185685ebc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "996c8d9d729d03b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "whisper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2742d9243d6c21f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "9641561537bd69f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "294c274e06ced1b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3377bbbb16cf4f29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Launch the three local models.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Launch the three local models"
+            }
+          },
+          {
+            "id": "7809cd2e78172d56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How to enable the Three important DBs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to enable the Three important DBs"
+            }
+          },
+          {
+            "id": "69ed19a1ff3e602a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ef7f0db1d7f1c57",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1a11a944f3f7ce4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How to enable the Three important DBs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How to enable the Three important DBs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e3a76da768f00f00",
+  "lastOpenFiles": [
+    "How to enable the Three important DBs.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "tutorials.md",
+    "Prompt.md",
+    "Design of the file-processing system.md",
+    "Launch the three local models.md",
+    "Prompts/ask GPT for learning the desing of the prompting template.md",
+    "Prompts"
+  ]
+}

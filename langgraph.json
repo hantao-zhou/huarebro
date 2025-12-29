@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "file": "./runner.py:agent"
+  },
+  "env": ".env",
+  "recursion_limit": 999
+}
