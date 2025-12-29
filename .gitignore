@@ -33,7 +33,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 *pckl
-workspace
+/workspace/
+
 
 # PyInstaller
 #   Usually these files are written by a python script from a template
@@ -293,7 +294,7 @@ web_modules/
 
 # dotenv environment variable files
 .env
-.env.*
+.env.
 !.env.example
 
 # parcel-bundler cache (https://parceljs.org/)
